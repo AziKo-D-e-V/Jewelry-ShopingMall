@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a7e085b4-b494-43ad-b033-dbc93443a75d",
+    "name": "BilakUzuk",
+    "price": "75$",
+    "AdminId": "6e91177a-995c-4460-b1bd-d7291d3442bb",
+    "createdAt": "2023-06-07T20:07:38.610Z"
+  },
+  {
+    "id": "65d4a4d1-7334-4fe4-a0c0-9b2e4ef9ec9e",
+    "name": "UZUK",
+    "price": "125$",
+    "AdminId": "6e91177a-995c-4460-b1bd-d7291d3442bb",
+    "createdAt": "2023-06-07T20:07:55.627Z"
+  }
+]
